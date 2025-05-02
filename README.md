@@ -22,7 +22,7 @@ Este projeto integra diferentes ferramentas e linguagens para tornar a produçã
 - **GitHub** para colaboração e versionamento.
 - **Visual Studio Code** como ambiente de desenvolvimento.
 
-## 🎵 Você encontra o áudio na pasta output
+## 🎵 Você encontra o áudio aqui: [Podcast-EP01](https://1drv.ms/u/c/d048daf441fe3bb3/EcHF4fFvbrtDpb8_r4BHZfoBiBBTHEv4EV01SFw9BQZIsA)
 
 ## 🌎 Como Contribuir
 Este repositório foi criado, utilizando como base e inspiração o repositório do [Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia)
